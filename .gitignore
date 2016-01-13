@@ -16,3 +16,5 @@
 !/log/.keep
 /tmp
 /idea
+.idea/sample_app.iml
+.idea/workspace.xml
