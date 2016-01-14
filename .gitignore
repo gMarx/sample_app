@@ -18,3 +18,5 @@
 /idea
 .idea/sample_app.iml
 .idea/workspace.xml
+.idea/
+idea/workspace.xml
